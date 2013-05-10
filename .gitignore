@@ -1,12 +1,12 @@
 # built application files
-*.apk
-*.ap_
+.apk
+.ap_
 
 # files for the dex VM
-*.dex
+.dex
 
 # Java class files
-*.class
+.class
 
 # generated files
 bin/
@@ -37,10 +37,10 @@ proguard/
 
 # Compiled source #
 ###################
-*.com
-*.class
-*.dll
-*.exe
+.com
+.class
+.dll
+.exe
 *.o
 *.so
 

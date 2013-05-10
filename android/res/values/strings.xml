@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">INI</string>
+    <string name="description">Determs if the INI is opened.</string>
+    <string name="homepage">InfoIni.de</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="toggle_planets">Earth</string>
+    <string name="toggle_messages">Messages</string>
+    <string name="toggle_opengl">OpenGL</string>
+    <string name="preferences">More</string>
+    <string name="zuendstoff">Zündstoff</string>
+    <string name="openings">Opening Times</string>
+    <string name="webapp">WebApp</string>
+    <string name="red_phone">Call</string>
+    <string name="members">Members</string>
+    <string name="mensa">Mensa</string>
+</resources>
