@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Red Phone -->
+    <item android:id="@+id/red_phone"
+          android:icon="@drawable/red_phone"
+          android:title="@string/red_phone"/>
+    <!-- Öffnungszeiten -->
+    <item android:id="@+id/openings"
+          android:icon="@drawable/openings"
+          android:title="@string/openings"/>
+    <!-- InfoIni.de -->
+    <item android:id="@+id/homepage"
+          android:icon="@drawable/infoini_logo"
+          android:title="@string/homepage"/>
+    <!-- http://www.facebook.com/InfoINI/ -->
+    <item android:id="@+id/facebook"
+          android:icon="@drawable/f_logo"
+          android:title="@string/facebook"/>
+    <!-- https://twitter.com/InfoINI -->
+    <item android:id="@+id/twitter"
+          android:icon="@drawable/twitter_logo"
+          android:title="@string/twitter"/>
+    <!-- Preferences -->
+    <item android:id="@+id/preferences_icon"
+          android:icon="@drawable/preferences_logo"
+          android:title="@string/preferences">
+        <!-- preferences submenu -->
+        <menu>
+            <!-- Zündstoff -->
+            <item android:id="@+id/zuendstoff"
+                  android:icon="@drawable/pdf_icon"
+                  android:title="@string/zuendstoff"/>
+            <!-- Memmber -->
+            <!--<item door:id="@+id/members"-->
+                  <!--door:icon="@drawable/pdf_icon"-->
+                  <!--door:title="@string/members"/>-->
+            <!-- WebAPP -->
+            <item android:id="@+id/webapp"
+                  android:icon="@drawable/infoini_logo"
+                  android:title="@string/webapp"/>
+            <!-- Mensa -->
+            <item android:id="@+id/mensa"
+                  android:icon="@drawable/pdf_icon"
+                  android:title="@string/mensa"/>
+            <!-- Messages -->
+            <!--<item door:id="@+id/toggle_messages"-->
+                  <!--door:icon="@drawable/mail_icon"-->
+                  <!--door:title="@string/toggle_messages"/>-->
+        </menu>
+    </item>
+</menu>
